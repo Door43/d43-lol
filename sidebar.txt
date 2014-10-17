@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lol:home|Door43 (lol)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lol|d43-lol repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lol/archive/master.zip|d43-lol.zip]]
+
+**Recent Changes**
+{{changes>ns = lol}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lol|Ethnologue data]]
+
